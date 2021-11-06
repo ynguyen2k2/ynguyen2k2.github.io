@@ -76,6 +76,11 @@
             color: #fff;
             padding: 5px 41px;
         }
+        #slider .text-description {
+            margin-top: 7px;
+            margin-bottom: -32px;
+            opacity: 0.8;
+        }
         #content .member-img {
             width: 60%;
         }

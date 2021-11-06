@@ -42,6 +42,8 @@ html{
     margin-bottom: 16px;
     border: none;
     text-align: center;
+    appearance: none;
+    -webkit-appearance: none;
 
 }
 .btn:hover {
@@ -219,6 +221,7 @@ font-size: 24px;
 #slider .text-description {
     margin-top: 25px;
     font-size: 15px;
+    text-shadow: 0 0 1px #000;
 }
 
 #content {
@@ -371,7 +374,7 @@ line-height: 1.4;
     padding: 10px;
     border: 1px solid #ccc;
     width: 100%;
-
+    font-size: 16px;
 }
 /* Map Section */
 .map-section-img{
